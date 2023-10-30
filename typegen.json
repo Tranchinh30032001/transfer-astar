@@ -1,0 +1,11 @@
+{
+  "outDir": "src/types",
+  "specVersions": "https://astar.archive.subsquid.io/graphql",
+  "events": [
+    "Balances.Transfer"
+  ],
+  "calls": [
+  ],
+  "storage": [
+  ]
+}
